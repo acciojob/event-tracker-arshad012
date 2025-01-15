@@ -7,6 +7,8 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
         <h1> Ok </h1>
+
+    <button className='btn'>Add</button>
     </div>
   )
 }
