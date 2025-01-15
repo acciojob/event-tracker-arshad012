@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
-        <h1>Ok</h1
+        <h1> Ok </h1>
     </div>
   )
 }
