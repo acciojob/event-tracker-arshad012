@@ -1,14 +1,12 @@
 
 import React from "react";
 import './../styles/App.css';
+import ReactBigCalendar from "./ReactBigCalender";
 
 const App = () => {
   return (
     <div>
-        {/* Do not remove the main div */}
-        <h1> Ok </h1>
-
-    <button className='btn'>Add</button>
+      <ReactBigCalendar />
     </div>
   )
 }
